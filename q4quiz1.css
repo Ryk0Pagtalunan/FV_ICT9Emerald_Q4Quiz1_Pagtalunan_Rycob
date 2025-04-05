@@ -1,0 +1,46 @@
+#title{
+	background-image: linear-gradient(rgba(46, 185, 246, 0.8), rgba(47, 101, 243, 0.8));
+	width: 750px;
+	height: 50px;
+	color: white;
+	font-family: Avantgarde;
+	font-style: italic;
+	font-size: 45px;
+	color: rgba(14, 24, 213, 0.8);
+}
+body{
+	background-color: #d92323;
+	background-image: url(https://i.pinimg.com/736x/96/bb/59/96bb595c2a305255324a31161cefcfd7.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.container1{
+	background-image: linear-gradient(rgba(46, 185, 246, 0.8), rgba(47, 101, 243, 0.8));
+	width: 500px;
+	padding: 10px;
+	border: 2.5px solid rgba(48, 57, 229, 0.8);
+	margin: 25px;
+}
+#message{
+font-size: 12px;
+}
+#weight{
+height: 50px;
+font-size: 25px;
+text-align: center;
+background-image: linear-gradient(#2368de, #3d0fbd);
+border: 3px solid #0563f0;
+}
+#height{
+height: 50px;
+font-size: 25px;
+text-align: center;
+background-image: linear-gradient(#3d0fbd, #2368de);
+border: 3px solid #0563f0;
+}
+#button{
+	background-image: linear-gradient(rgba(47, 101, 243, 0.8), rgba(46, 185, 246, 0.8));
+	border: 0px;
+	width: 100px;
+}
